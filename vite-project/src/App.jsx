@@ -44,7 +44,7 @@ function App() {
 
   return (
     <div className="container">
-      <h3> 🐶 Dog Viewer </h3>
+      <h3> 🐶 Dogs </h3>
 
       <button 
         onClick={buscarProximoDog} 
