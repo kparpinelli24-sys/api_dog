@@ -43,7 +43,7 @@ function App() {
   };
 
   return (
-    <div className="container" style={{ textAlign: 'center', padding: '20px' }}>
+    <div className="container">
       <h3> 🐶 Dog Viewer </h3>
 
       <button 
